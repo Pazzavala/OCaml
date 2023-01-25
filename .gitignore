@@ -1,0 +1,7 @@
+# OCaml files to ignore
+*.byte
+*.native
+_build
+
+# Mac generated files
+.DS_Store
